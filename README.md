@@ -44,6 +44,6 @@ Follow-Up Required
 
 **👨‍💻 Developed By**
 
-Vishal Pate
+Kailash Dake
 
-📧 Email: vprakashpate@gmail.com
+📧 Email: kailash.dake.88@gmail.com
