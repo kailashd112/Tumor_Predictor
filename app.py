@@ -91,5 +91,5 @@ if submit_button:
 
 # Footer info aligned right
 st.markdown("------------")
-st.markdown("<div style='text-align: right;'><h4 style='color: white;'>Developed by: Vishal Pate</h4></div>", unsafe_allow_html=True)
-st.markdown("<div style='text-align: right;'><h4 style='color: white;'>Email: vprakashpate@gmail.com</h4></div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: right;'><h4 style='color: white;'>Developed by: Kailash Dake</h4></div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: right;'><h4 style='color: white;'>Email: kailash.dake.88@gmail.com</h4></div>", unsafe_allow_html=True)
